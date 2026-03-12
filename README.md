@@ -1,7 +1,6 @@
 # Data and API Troubleshooting Examples
 
-This repository contains examples of SQL queries and troubleshooting workflows used to investigate data issues and API-related problems.
-
+This repository demonstrates troubleshooting workflows for SQL analysis, API debugging, and prompt design when working with AI systems.
 The goal of this project is to demonstrate practical problem solving used in analytics, reporting systems, and SaaS environments.
 
 ## Topics Covered
